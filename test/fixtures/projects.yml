@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vacc_type: MyString
+  start_date: 2017-04-18
+  end_date: 2017-04-18
+  batch_number: 1
+  vaccinator: one
+
+two:
+  vacc_type: MyString
+  start_date: 2017-04-18
+  end_date: 2017-04-18
+  batch_number: 1
+  vaccinator: two
